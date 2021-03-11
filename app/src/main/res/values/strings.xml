@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Constraint Layouts</string>
+    <string name="Registro">Registro</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Dirección">Direccion</string>
+    <string name="EPS">EPS</string>
+    <string name="ENVIAR">ENVIAR</string>
+
+
+</resources>
